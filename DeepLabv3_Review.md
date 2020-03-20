@@ -1,4 +1,4 @@
-### Rethinking Atrous Convolution for Semantic Image Segmentation
+## Rethinking Atrous Convolution for Semantic Image Segmentation
 # Summary
 
 ### In 3~5 sentences, describe the key ideas, experiments, and significance
